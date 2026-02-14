@@ -4,7 +4,7 @@ class DomainSearch < Formula
   desc "Search for available domains across every TLD, right in the terminal"
   homepage "https://github.com/sasha-computer/domain-search"
   url "https://github.com/sasha-computer/domain-search/archive/refs/tags/v1.0.tar.gz"
-  sha256 "f141d07612b5800a30d626afa2060e69a3f8b35c72f1fae479e0e0062b621d5e"
+  sha256 "b15d8564eda81f1639150827f78ff6b5103ffc632d1a4b0b498f6fc5a3d660a1"
   license "MIT"
 
   depends_on "python@3.12"
