@@ -1,6 +1,6 @@
 cask "claude-code-usage" do
-  version "1.5.0"
-  sha256 "8f70a1fb595305d32c5a81b5f23a469e57e3476faa5e42b3e1a779dd4d6fe65f"
+  version "1.5.1"
+  sha256 "52c50461dc808d71eea1ecede914457185b9c15ba6afa029bd2ea3e20d5c6a16"
 
   url "https://github.com/sasha-computer/claude-code-usage/releases/download/v#{version}/ClaudeCodeUsage.dmg"
   name "Claude Code Usage"
